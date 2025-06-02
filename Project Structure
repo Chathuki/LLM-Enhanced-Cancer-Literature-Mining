@@ -1,0 +1,10 @@
+cancer-literature-mining/
+├── app.py
+├── analyzer.py
+├── requirements.txt
+├── download_model.py
+├── models/
+│   └── [GPT4All model goes here]
+├── papers/
+│   └── example_cancer_study.pdf
+├── README.md
